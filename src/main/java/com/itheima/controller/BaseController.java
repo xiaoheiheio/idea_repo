@@ -11,6 +11,7 @@ public class BaseController {
         System.out.println("left,left,left");
 
         System.out.println("right,rigth,rigth");
+        System.out.println("11111111");
     }
 
 }
