@@ -7,5 +7,8 @@ package com.itheima.controller;
  * @Version 1.0
  **/
 public class BaseController {
+    public static void main(String[] args) {
+        System.out.println("right,rigth,rigth");
+    }
 
 }
